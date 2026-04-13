@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bank Marketing Classification Project
 
 ## Overview
@@ -81,3 +82,7 @@ The final model is selected based on cross-validation performance and evaluated 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
+=======
+# Bank-Marketing-Classification-Project
+Classification model using Decision Tree and scikit-learn to predict customer term deposit subscription. Includes full data wrangling, feature engineering, and hyperparameter optimization.
+>>>>>>> 0daba43c9bf5e9f751a9efad7dc448c7bfb1b6f6
